@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mdahlke's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdahlke)](https://github.com/mdahlke/github-readme-stats)
+[![mdahlke's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdahlke)](https://github.com/mdahlke/mdahlke)
 
 <!--
 **mdahlke/mdahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
