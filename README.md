@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 style="text-align: center">Hi 👋</h1>
 
 ![Contribution Snake](https://github.com/mdahlke/mdahlke/blob/output/github-contribution-grid-snake.svg)
 
