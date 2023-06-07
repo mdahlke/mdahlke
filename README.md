@@ -5,10 +5,10 @@
 <table>
     <tr>
         <td width="50%">
-            <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=mdahlke&hide_border=true&stroke=9900b8&fire=8E1010&dates=00000077&sideLabels=9900b8&currStreakLabel=9900b8&currStreakNum=8E1010&ring=9900b8&sideNums=8E1010">
+            <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=mdahlke&hide_border=true&stroke=9900b8&fire=9900b8&dates=d496fa&sideLabels=d496fa&currStreakLabel=9900b8&currStreakNum=007db8&ring=5000b8&sideNums=007db8">
         </td>
         <td width="50%">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mdahlke&hide_border=true&hide=stars&text_color=9900b8&icon_color=9900b8&title_color=8E1010&include_all_commits=true&count_private=true&show_icon=true">
+            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mdahlke&hide_border=true&hide=stars&text_color=9900b8&icon_color=9900b8&title_color=007db8&include_all_commits=true&count_private=true&show_icon=true">
         </td>
     </tr>
 </table>
